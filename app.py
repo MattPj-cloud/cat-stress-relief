@@ -3,7 +3,7 @@ import requests
 import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-st.title("🐱 Cat Stress Relief")
+st.title("🐱 Feline Fine")
 
 stress_level = st.slider("Stress Level", 1, 10, 5)
 
